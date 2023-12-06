@@ -23,7 +23,7 @@ main {
   text-align: center;
 }
 span {
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 200;
   color: hsl(229, 6%, 66%);
 }
@@ -46,7 +46,7 @@ strong {
   align-items: center;
 }
 .cards p {
-  margin-top: 15px;
+  margin-top: 12px;
   color: hsl(229, 6%, 66%);
   font-size: 15px;
 }
